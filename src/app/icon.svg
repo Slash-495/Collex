@@ -1,0 +1,11 @@
+<svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Bag body -->
+  <rect x="40" y="72" width="176" height="144" rx="20" fill="#00A896"/>
+  <!-- Handle -->
+  <path d="M72 72C72 53.222 87.222 38 106 38H150C168.778 38 184 53.222 184 72" stroke="#2D2D2D" stroke-width="14" fill="none" stroke-linecap="round"/>
+  <!-- C letter -->
+  <path d="M156 164C156 176.15 146.15 186 134 186C121.85 186 112 176.15 112 164C112 151.85 121.85 142 134 142C140.627 142 146.49 145.015 150.405 149.735" stroke="#FFFFFF" stroke-width="20" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
+
+
+
